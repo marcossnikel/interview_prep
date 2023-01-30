@@ -1,4 +1,6 @@
-## Non - Constructible Change
+# Non - Constructible Change :moneybag:
+
+### Topic : ARRAY
 
 **Brute Force Algorithm**
 - Loop through all positive integers until you hit one that you cannot create
